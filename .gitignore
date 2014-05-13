@@ -9,6 +9,9 @@ develop-eggs
 downloads
 eggs
 fake-eggs
+include
+lib
+local
 parts
 src
 tags
